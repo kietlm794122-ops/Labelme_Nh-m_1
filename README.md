@@ -1,4 +1,4 @@
-# Labelme_Nh-m_1
+# Labelme_Nhóm_1
 Các thành viên nhóm :
 Nguyễn Văn Đạt - 100%
 Trần Hoàng Nam - 100%
